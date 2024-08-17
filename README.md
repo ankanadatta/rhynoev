@@ -1,4 +1,4 @@
-# Website for RHYNO EV using React.js
+# Website for RHYNO EV using React.js and Bootstrap
 - Responsive design
 - UI elements
 - Navbar with multiple pages
